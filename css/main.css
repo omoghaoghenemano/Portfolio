@@ -1,0 +1,215 @@
+body{
+  font-size: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: #DDDBD4;
+}
+.woke p{
+  color: black;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 3%;
+  font-family: serif;
+ font-weight: lighter;
+
+  
+}
+.styleme{
+ height: 30px;
+ width: 30px;
+ align-content: center;
+ margin-left: 50%;
+ margin-top: 10%;
+
+}
+
+.woke hr{
+    width: 80%;
+
+
+}
+.makemebrown{
+  background-color: #8E6800;
+  width: 100%;
+  height: 85%;
+  border-radius: 8px;
+}
+.makemebrown a{
+  text-align: center;
+}
+.makemewhite{
+  background-color: rgb(226, 226, 226);
+  width: 100%;
+  height: 55%;
+  border-radius: 8px;
+}
+.coverus{
+  width: 50%;
+  margin-left: 30%;
+}
+.coverus h1{
+  color: white;
+  font-weight: lighter;
+  font-size: 30px;
+  font-family: serif;
+  padding-top: 12%;
+
+}
+.coverus p{
+  font-size: 15px;
+  color: white;
+}
+.coverus a{
+  text-align: center;
+  color: white;
+  font-size: 15px;
+  margin-left: 2%;
+
+
+}
+.letsee p{
+  margin-top: 10px;
+  color: black;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 3%;
+ font-weight: lighter;
+}
+.colorme{
+ 
+
+  margin-left: 47%;
+ 
+}
+.cober{
+
+}
+.badguy{
+  height: 55%;
+  display: grid;
+}
+
+
+.small{
+  margin-top: -15%;
+  margin-left: 50%;
+  width: 30px;
+  height: 40px;
+  display: inline;
+  
+}
+.move1{
+  font-size: 20px;
+  font-weight: lighter;
+}
+.mover{
+  margin-top: -15.5%;
+  margin-left: 55%;
+}
+.movers{
+  margin-left: 55%;
+  margin-top: -9.5%;
+}
+.move2{
+  font-size: 20px;
+  font-weight: lighter;
+}
+.small1{
+  margin-top: -9%;
+  margin-left: 50%;
+  width: 30px;
+  height: 40px;
+
+}
+.small2{
+  margin-top: -3%;
+  margin-left: 50%;
+  width: 30px;
+
+  height: 40px;
+}
+.movers1{
+  margin-top: -3.5%;
+  margin-left: 55.5%;
+ 
+
+}
+.move3{
+  font-size: 20px;
+  font-weight: lighter;
+}
+
+.cober a{
+  width:30px;
+  height: 30px;
+}
+.rrr{
+  font-size: 15px;
+  width: 50%;
+  margin-left: 20%;
+  
+  
+
+}
+
+.badguy{
+  margin-top:5%;
+  width: 100%;
+  height: 55%;
+}
+.badguyson img{
+  width: 45%;
+  height: 100%;
+
+}
+.color {
+  border-style: solid;
+  border-width: thin;
+  width: 13%;
+  height: 7%;
+  margin-top: 7%;
+}
+.color a{
+  text-align: center;
+  font-size: 13px;
+  padding-left: 17px;
+  text-decoration: none;
+  color: black;
+}
+.kate{
+ margin-top: 60%;
+  text-decoration: none;
+  
+  
+}
+.rrr p{
+  text-align: center;
+  margin-left: 10%;
+}
+
+.design{
+  margin-left: 5%;
+  margin-top: -2%;
+}
+.sac{
+    text-align: center;
+    font-size: 14px;
+    margin-top: 2%;
+}
+.sac a{
+    text-decoration: none;
+    
+    margin-left: 3%;
+    color: black;
+    
+}
+.yhj{
+  margin-top: 4%;
+}
+.yhj img{
+  width: 100%;
+  height: 55%;
+  border-radius: 8px;
+  display: block;
+
+}
+
