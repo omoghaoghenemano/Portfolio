@@ -1,4 +1,3 @@
-
 var mytab = document.querySelectorAll('[data-tab-target]')
 var tabContents = document.querySelectorAll('[data-tab-content]')
 
@@ -15,3 +14,10 @@ mytab.forEach(tab => {
     target.classList.add('active')
   })
 })
+function openForm(){
+  document.getElementById("myForm").style.display = "block";
+
+}
+function closeForm(){
+  document.getElementById("myForm").style.display = "none";
+}
