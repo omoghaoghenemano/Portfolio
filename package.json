@@ -5,9 +5,8 @@
   "name": "portfolio",
   "version": "1.0.0",
   "main": "script.js",
-  "devDependencies": {},
   "scripts": {
-    "deploy": "gh-pages -d Portfolio"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
